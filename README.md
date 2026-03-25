@@ -21,7 +21,6 @@ http://localhost:8080
 * Spring Security (JWT)
 * Spring Data JPA
 * H2 Database
-* Flyway
 * MapStruct
 * Swagger (OpenAPI)
 
