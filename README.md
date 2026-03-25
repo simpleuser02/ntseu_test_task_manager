@@ -179,3 +179,13 @@ jdbc:h2:file:./data/task_manager
 ```bash
 ./gradlew bootRun
 ```
+
+
+## Postman Collection
+
+```
+Postman коллекция находится в файле
+Task Manager API.postman_collection.json
+```
+
+
