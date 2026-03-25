@@ -90,6 +90,6 @@ public class TaskFacade {
         }
 
        taskService.deleteById(id);
-        log.warn("User {} tried to delete task {} without permission", principal.getUsername(), id);
+        log.info("Task {} was deleted", id);
     }
 }
